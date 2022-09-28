@@ -6,4 +6,5 @@ def SumOfNum (num):
         if nums[i].isdigit():
             result += int(nums[i])
     print(result)
-SumOfNum(125.2)
+SumOfNum(6782)
+SumOfNum(0.56)
